@@ -1,0 +1,26 @@
+{
+  "name": "devweb",
+  "version": "1.0.0",
+  "description": "## Descrição ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 2000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniojnr/webdev.git"
+  },
+  "author": "Antonio Júnior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniojnr/webdev/issues"
+  },
+  "homepage": "https://github.com/antoniojnr/webdev#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "express": "^4.15.3",
+    "mocha": "^3.4.1"
+  }
+}
